@@ -122,10 +122,10 @@ _Декабрь 2025 — Январь 2026_
 ## 7. Дополнительные курсы и сертификаты:
 - Курс: "Поколение Python": курс для начинающих
 - Ссылка: https://stepik.org/cert/2454479
-  <img src="./Python.png" alt="Фото Максима" width="200"/
+- <img src="./Python.png" alt="Фото Максима" width="200"/>
 - Курс: Автоматизация тестирования с помощью Selenium и Python
 - Ссылка: https://stepik.org/cert/3120983
-<img src="./Selenium.png" alt="Фото Максима" width="200"/
+- <img src="./Selenium.png" alt="Фото Максима" width="200"/>
 ## Кратко о себе
 
 **Профессиональный опыт:**  
