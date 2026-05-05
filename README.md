@@ -104,9 +104,10 @@ _Январь 2023 — Ноябрь 2025_
 - Курс: Автоматизация тестирования с помощью Selenium и Python
 - Ссылка: https://stepik.org/cert/3120983
 - <img src="./Selenium.png" alt="Фото Максима" width="200"/>
-- Курс: : ООП Python: Часть 1
-- Ссылка:: https://stepik.org/cert/3208783
-- <img src="./Selenium.png" alt="Фото Максима" width="200"/>
+- Курс: ООП Python: Часть 1
+- Ссылка: https://stepik.org/cert/3208783
+- <img src="./ООП.png" alt="Фото Максима" width="200"/>
+- Курс: Симулятор SQL lab.karpov.courses
 
 ## Кратко о себе
 
