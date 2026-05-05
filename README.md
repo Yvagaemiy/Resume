@@ -53,7 +53,7 @@ https://github.com/Yvagaemiy/Slelenium_Stepik.git
 
 | Учебное заведение | Период | Курс / Специальность |
 |------------------|--------|--------------------|
-| GeekBrains | март 2023 — август 2025 | QA Engineer, CA Engineer, Software Tester |
+| GeekBrains | 2025 | QA Engineer, CA Engineer, Software Tester |
 | СПбГИЭУ «ИНЖЭКОН» | 2008 | Коммерция  |
 | Радиотехнический профессиональный лицей №1 | 2003 | слесарь-механик РЭАиПр (5 разряд), слесарь-сборщик РЭАиПр (5 разряд) |
 
